@@ -80,7 +80,7 @@ Body:
 }
 ```
 
-__ Note: *If you want to register User with User oauth token then it will give you access_denied error. User will be only created by those user who have ADMIN role. You will find those API in code (UserController).* __
+**Note:** *If you want to register User with User oauth token then it will give you access_denied error. User will be only created by those user who have ADMIN role. You will find those API in code (UserController).*
 
 # Thank you!
 
